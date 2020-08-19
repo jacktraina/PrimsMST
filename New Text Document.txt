@@ -1,0 +1,2 @@
+randmstmake: practice.cpp
+     g++ practice.cpp -o randmst.
