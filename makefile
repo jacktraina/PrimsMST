@@ -1,5 +1,5 @@
-randmst: neonicon.cpp
-	g++ -std=c++14 neonicon.cpp -o randmst 
+randmst: prims.cpp
+	g++ -std=c++14 prims.cpp -o randmst 
 
 clean:
 	rm -f randmst
